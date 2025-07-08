@@ -1,66 +1,79 @@
-# Dev.MoaazMushatha
-🚀 Personal GitHub Profile - Full Stack &amp; Mobile Dev
-<h1 align="center">Hi there 👋, I'm Moaaz Mushatha</h1>
-<h3 align="center">Full-Stack & Mobile Developer | Laravel Artisan | Cloud Explorer ☁️</h3>
+<h1 align="center">Hi, I'm Moaaz Mushatha 👋</h1>
+
+<p align="center">
+  💻 Full-Stack Web & Android Developer • 🚀 Laravel & Kotlin Specialist • 📱 Mobile & RESTful API Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Expert-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Android%20Dev-Jetpack%20Compose-green?style=flat-square&logo=android" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-blue?style=flat-square&logo=freelancer" />
+  <img src="https://img.shields.io/badge/Available-Freelance%20&%20Remote-important?style=flat-square&logo=upwork" />
+</p>
 
 ---
 
-🚀 Passionate software developer with a solid background in **web & mobile development**, building scalable applications with high performance and clean code.
+### 👨‍💼 About Me
 
-💡 I specialize in:
+I'm **Moaaz Mushatha**, a passionate developer with a degree in **Mobile Computing and Smart Devices Applications** from the **Islamic University of Gaza**.
 
-- 🧠 **Mobile Development**: Android (Jetpack Compose, Kotlin)
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Vue.js
-- 🧰 **Backend**: PHP, Laravel, Node.js, RESTful APIs
-- ☁️ **Cloud**: AWS, Vercel, Firebase, Render, GitHub Actions
-- 🛠️ **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
-- ⚙️ **Tools**: Docker, Git, GitHub, CI/CD pipelines
+Over the past years, I've gained hands-on experience working with local and international institutions such as:
 
----
-
-### 🔥 Projects I'm Working On:
-
-| Project | Description |
-|--------|-------------|
-| 🧠 `StackUp` | Q&A platform similar to StackOverflow, built with Laravel, InertiaJS, and Tailwind |
-| 📱 `ToDo Compose` | Modern task manager app using Jetpack Compose & MVVM architecture |
-| 🛍️ `Wasli` | A smart order management and delivery system with Firebase Realtime DB |
-| 🎓 `EduTrack` | Student attendance and grading system (Flutter + Laravel backend) |
-| 📊 `InsightHub` | Dashboard for startups to monitor KPIs, with React + Node.js + Chart.js |
+- **Reach Education Fund** – Mobile & Web Developer
+- **SDF (Support Development Foundation)** – Laravel & Android Developer
+- Contributed to several **national digital transformation projects** and internal systems in Gaza.
 
 ---
 
-### 🌱 I'm Currently Learning
+### 🧠 My Expertise
 
-- Advanced **Data Structures & Algorithms**
-- DevOps with Docker & Kubernetes
-- Design Patterns & Clean Architecture
-- Deepening Cloud integrations (CI/CD, serverless)
+#### 🖥 Web Development
+- `Laravel`, `PHP`, `MySQL`, `Blade`, `RESTful APIs`
+- Frontend: `JavaScript`, `HTML`, `CSS`, `Tailwind`, `Vue.js`
 
----
+#### 📱 Android Development
+- `Kotlin`, `Jetpack Compose`, `Room`, `LiveData`, `MVVM`
+- `Firebase`, `Push Notifications`, `UI/UX Optimization`
 
-### 🤝 Let's Collaborate
-
-I love teaming up with other developers and designers to build amazing solutions. If you're working on something cool — count me in!
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: moazz.m.2021@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/moaazmushatha](https://linkedin.com/in/moaazmushatha)
-- 💻 GitHub: [github.com/MoaazMushatha](https://github.com/MoaazMushatha)
-- ☕ Let's grab a virtual coffee! I'm always open to chat and share ideas.
+#### ☁️ Cloud & DevOps
+- `Linux`, `GitHub`, `Git`, `cPanel`, `Cloud Deployment`
 
 ---
 
-### 😎 Fun Facts
+### 🚧 Real-World Projects
 
-- I learned coding with curiosity, stayed for the passion 🔥
-- I believe in **building, breaking, and learning**.
-- I don't just write code — I craft experiences.
+- 📚 **StackPal** – A StackOverflow-like Q&A platform built with Laravel & REST APIs.
+- 📝 **ToDo Compose** – A modern, sleek Android productivity app built using Jetpack Compose.
+- 📦 **Wasli** – A Laravel-based delivery and order management platform with role-based access (Admin / Vendor / Courier / Customer).
+- 🌐 Other client-based portals with Laravel, MySQL, and responsive interfaces.
 
 ---
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+### 🤝 Collaboration & Availability
 
+I'm currently **open to work** on:
+- 🌍 Full-time roles (remote/on-site)
+- 🔧 Freelance projects
+- 🤝 Technical partnerships or mentorships
+
+Whether you're looking for a clean Laravel backend, a stunning Android UI, or API integrations — I'm ready to deliver.
+
+---
+
+### 📬 Let's Get in Touch
+
+- 📱 **WhatsApp**: [+972 56 766 4936](https://wa.me/972567664936)
+- 📧 **Email**: moaaz.freelance@gmail.com
+- 🌍 **Facebook**: [moaaz.mushatha](https://www.facebook.com/moaaz.mushatha)
+- 📸 **Instagram**: [@dev.moaaz_mushatha](https://www.instagram.com/dev.moaaz_mushatha/)
+
+---
+
+### 💡 A Bit More
+
+> I never planned to be a developer. I just fell in love with solving problems and building digital tools that matter.  
+Now, I enjoy writing scalable code, crafting smooth UI/UX, and collaborating on ambitious projects.
+
+---
+
+<p align="center"><b>Let’s build something awesome together 🚀</b></p>
